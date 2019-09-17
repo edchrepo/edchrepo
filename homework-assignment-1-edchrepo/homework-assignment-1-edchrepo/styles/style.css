@@ -1,0 +1,40 @@
+html {
+  font-size: 10px; 
+  font-family: 'Manjari', sans-serif;
+}
+
+html {
+  background-color: #E2DEDE;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #E2DEDE;
+  text-shadow: -5px -5px 3px red;
+}
+
+p, li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #FDA644;
+  padding: 20px 20px 20px 20px;
+  border: 8px solid red;
+}
